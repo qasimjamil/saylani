@@ -1,0 +1,42 @@
+[debug] [2020-05-08T18:00:52.488Z] ----------------------------------------------------------------------
+[debug] [2020-05-08T18:00:52.492Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\rania\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-05-08T18:00:52.493Z] CLI Version:   8.1.1
+[debug] [2020-05-08T18:00:52.493Z] Platform:      win32
+[debug] [2020-05-08T18:00:52.493Z] Node Version:  v12.16.2
+[debug] [2020-05-08T18:00:52.495Z] Time:          Fri May 08 2020 23:00:52 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-05-08T18:00:52.495Z] ----------------------------------------------------------------------
+[debug] [2020-05-08T18:00:52.496Z] 
+[debug] [2020-05-08T18:00:52.510Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-05-08T18:00:52.511Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\rania\OneDrive\Desktop\homepage
+
+[debug] [2020-05-08T18:35:30.935Z] ----------------------------------------------------------------------
+[debug] [2020-05-08T18:35:30.938Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\rania\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-05-08T18:35:30.939Z] CLI Version:   8.1.1
+[debug] [2020-05-08T18:35:30.939Z] Platform:      win32
+[debug] [2020-05-08T18:35:30.939Z] Node Version:  v12.16.2
+[debug] [2020-05-08T18:35:30.941Z] Time:          Fri May 08 2020 23:35:30 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-05-08T18:35:30.941Z] ----------------------------------------------------------------------
+[debug] [2020-05-08T18:35:30.942Z] 
+[debug] [2020-05-08T18:35:30.985Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-05-08T18:35:30.985Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\rania\OneDrive\Desktop\homepage
+
